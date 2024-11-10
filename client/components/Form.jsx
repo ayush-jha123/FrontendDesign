@@ -14,7 +14,7 @@ const Form = () => {
           Get In Touch
         </p>
         <p className="font-mono text-white font-medium text-[1.8rem]">
-          Hey! Let's Talk
+          Hey! Let&apos;s Talk
         </p>
       </div>
       <div className="w-full flex flex-row justify-center gap-4 pb-[4rem] mt-4 z-20">
